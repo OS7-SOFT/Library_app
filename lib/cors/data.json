@@ -1,0 +1,693 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5289,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "vhQ1AAAAMAAJ",
+      "etag": "72H/jNLgfRA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vhQ1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The World Book Encyclopedia",
+        "publishedDate": "2002",
+        "description": "An encyclopedia designed especially to meet the needs of elementary, junior high, and senior high school students.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015051610437"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 554,
+        "printType": "BOOK",
+        "categories": ["Encyclopedias and dictionaries"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.6.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vhQ1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vhQ1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=vhQ1AAAAMAAJ&dq=%27%27&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=vhQ1AAAAMAAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_World_Book_Encyclopedia.html?hl=&id=vhQ1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vhQ1AAAAMAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An encyclopedia designed especially to meet the needs of elementary, junior high, and senior high school students."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0Vv6DwAAQBAJ",
+      "etag": "soY3WGmjl3o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0Vv6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Rust Programming Language (Covers Rust 2018)",
+        "authors": ["Steve Klabnik", "Carol Nichols"],
+        "publisher": "No Starch Press",
+        "publishedDate": "2019-08-12",
+        "description": "The official book on the Rust programming language, written by the Rust development team at the Mozilla Foundation, fully updated for Rust 2018. The Rust Programming Language is the official book on Rust: an open source systems programming language that helps you write faster, more reliable software. Rust offers control over low-level details (such as memory usage) in combination with high-level ergonomics, eliminating the hassle traditionally associated with low-level languages. The authors of The Rust Programming Language, members of the Rust Core Team, share their knowledge and experience to show you how to take full advantage of Rust's features--from installation to creating robust and scalable programs. You'll begin with basics like creating functions, choosing data types, and binding variables and then move on to more advanced concepts, such as: Ownership and borrowing, lifetimes, and traits Using Rust's memory safety guarantees to build fast, safe programs Testing, error handling, and effective refactoring Generics, smart pointers, multithreading, trait objects, and advanced pattern matching Using Cargo, Rust's built-in package manager, to build, test, and document your code and manage dependencies How best to use Rust's advanced compiler with compiler-led programming techniques You'll find plenty of code examples throughout the book, as well as three chapters dedicated to building complete projects to test your learning: a number guessing game, a Rust implementation of a command line tool, and a multithreaded server. New to this edition: An extended section on Rust macros, an expanded chapter on modules, and appendixes on Rust development tools and editions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781718500440"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1718500440"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 561,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0Vv6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0Vv6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=0Vv6DwAAQBAJ&printsec=frontcover&dq=%27%27&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0Vv6DwAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Rust_Programming_Language_Covers_Rus.html?hl=&id=0Vv6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0Vv6DwAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "New to this edition: An extended section on Rust macros, an expanded chapter on modules, and appendixes on Rust development tools and editions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "omivDQAAQBAJ",
+      "etag": "1Dw9vqlL3z4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/omivDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Deep Learning",
+        "authors": ["Ian Goodfellow", "Yoshua Bengio", "Aaron Courville"],
+        "publisher": "MIT Press",
+        "publishedDate": "2016-11-10",
+        "description": "An introduction to a broad range of topics in deep learning, covering mathematical and conceptual background, deep learning techniques used in industry, and research perspectives. “Written by three experts in the field, Deep Learning is the only comprehensive book on the subject.” —Elon Musk, cochair of OpenAI; cofounder and CEO of Tesla and SpaceX Deep learning is a form of machine learning that enables computers to learn from experience and understand the world in terms of a hierarchy of concepts. Because the computer gathers knowledge from experience, there is no need for a human computer operator to formally specify all the knowledge that the computer needs. The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones; a graph of these hierarchies would be many layers deep. This book introduces a broad range of topics in deep learning. The text offers mathematical and conceptual background, covering relevant concepts in linear algebra, probability theory and information theory, numerical computation, and machine learning. It describes deep learning techniques used by practitioners in industry, including deep feedforward networks, regularization, optimization algorithms, convolutional networks, sequence modeling, and practical methodology; and it surveys such applications as natural language processing, speech recognition, computer vision, online recommendation systems, bioinformatics, and videogames. Finally, the book offers research perspectives, covering such theoretical topics as linear factor models, autoencoders, representation learning, structured probabilistic models, Monte Carlo methods, the partition function, approximate inference, and deep generative models. Deep Learning can be used by undergraduate or graduate students planning careers in either industry or research, and by software engineers who want to begin using deep learning in their products or platforms. A website offers supplementary material for both readers and instructors.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780262337373"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0262337371"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 801,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=omivDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=omivDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=omivDQAAQBAJ&printsec=frontcover&dq=%27%27&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=omivDQAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Deep_Learning.html?hl=&id=omivDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Deep_Learning-sample-epub.acsm?id=omivDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Deep_Learning-sample-pdf.acsm?id=omivDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=omivDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The hierarchy of concepts allows the computer to learn complicated concepts by building them out of simpler ones; a graph of these hierarchies would be many layers deep. This book introduces a broad range of topics in deep learning."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JCkFEAAAQBAJ",
+      "etag": "Cn8uSxpkK1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JCkFEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Firekeeper's Daughter",
+        "subtitle": "Winner of the Goodreads Choice Award for YA",
+        "authors": ["Angeline Boulley"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-03-16",
+        "description": "An instant no. 1 New York Times Bestseller Winner of CrimeFest Best YA Crime Fiction Prize Winner of the YA Fiction Goodreads Choice Awards Shortlisted for Waterstones Children's Book Prize A Time magazine pick for Best YA of All Time Keep the Secret. Live the Lie. Earn your Truth. For fans of Angie Thomas and Tommy Orange comes a ground-breaking YA thriller about a Native American teen who must root out the corruption in her community Eighteen-year-old Daunis has always felt like an outsider with her mixed heritage, both in her hometown and on the nearby Ojibwe reservation. When she witnesses a murder, Daunis reluctantly agrees to go undercover. But secretly she pursues her own investigation, tracking down the culprits with her knowledge of traditional medicine. As the bodies pile up, Daunis finds herself caught in a web of deceit that threatens the people she loves the most. ‘Raw and moving’ Cosmopolitan ‘A story that grips like a bulldog clip on your heart’ Katherine Rundell, author of The Good Thieves ‘Thrilling and heartwrenching’ Aisha Bushby, author of A Pocketful of Stars ‘A swift-paced, compelling thriller’ Guardian",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786079053"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786079054"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JCkFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JCkFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=JCkFEAAAQBAJ&dq=%27%27&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JCkFEAAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Firekeeper_s_Daughter.html?hl=&id=JCkFEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JCkFEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A ground-breaking, heart-racing thriller perfect for fans of Angie Thomas and Tommy Orange An instant no. 1 New York Times Bestseller, April 4 2021 Winner of the Goodreads Choice Awards for YA Fiction, 2021 Winner of CrimeFest Best YA Crime ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qmDgjC79ozkC",
+      "etag": "3skJljyOkKI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qmDgjC79ozkC",
+      "volumeInfo": {
+        "title": "Going Rouge",
+        "subtitle": "Sarah Palin: An American Nightmare",
+        "authors": ["Richard Kim", "Betsy Reed"],
+        "publisher": "OR Books",
+        "description": "Sarah Palin has many faces: hockey mom, fundamentalist Christian, sex symbol, Republican ideologue, fashion icon, \"maverick\" populist. But, above all, Palin has become one thing: an American obsession that just won't go away. Edited by two senior editors at 'The Nation' magazine, this sharp, smart, up-to-the-minute book examines Palin's quirky origins in Wasilla, Alaska, her spectacular rise to the effective leadership of the Republican Party, and the nightmarish prospect of her continuing to dominate the nation's political scene. With contributions by: Amy Alexander, Max Blumenthal, Juan Cole, Joe Conason, Jeanne Devon, Eve Ensler, Michelle Goldberg, Jane Hamsher, Christopher Hayes, Mark Hertsgaard, Jim Hightower, Linda Hirshman, Naomi Klein, Dahlia Lithwick, Amanda Marcotte, Shannyn Moore, John Nichols, Rick Perlstein, Tom Perrotta, Katha Pollitt, Robert Reich, Frank Rich, Hanna Rosin, Jeff Sharlet, Matt Taibbi, Michael Tomasky, Rebecca Traister, Katrina vanden Heuvel, Jessica Valenti, Patricia Williams, JoAnn Wypijewski and Gary Younge among others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780984295012"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0984295011"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["Biography & Autobiography"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qmDgjC79ozkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qmDgjC79ozkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=qmDgjC79ozkC&printsec=frontcover&dq=%27%27&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=qmDgjC79ozkC&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Going_Rouge.html?hl=&id=qmDgjC79ozkC"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qmDgjC79ozkC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edited by two senior editors at &#39;The Nation&#39; magazine, this sharp, smart, up-to-the-minute book examines Palin&#39;s quirky origins in Wasilla, Alaska, her spectacular rise to the effective leadership of the Republican Party, and the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7k8_EAAAQBAJ",
+      "etag": "eq83bKfhJ8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7k8_EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Three Lines in a Circle",
+        "subtitle": "The Exciting Life of the Peace Symbol",
+        "authors": ["Michael G. Long"],
+        "publisher": "Presbyterian Publishing Corp",
+        "publishedDate": "2021-08-31",
+        "description": "One line straight down. One line to the right. One line to the left, then a circle. That was all—just three lines in a circle. This bold picture book tells the story of the peace symbol—designed in 1958 by a London activist protesting nuclear weapons—and how it inspired people all over the world. Depicting the symbol's travels from peace marches and liberation movements to the end of apartheid and the fall of the Berlin Wall, Three Lines in a Circle offers a message of inspiration to today's children and adults who are working to create social change. An author’s note provides historical background and a time line of late twentieth-century peace movements.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781646981960"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1646981960"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 0,
+        "printType": "BOOK",
+        "categories": ["Juvenile Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7k8_EAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7k8_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=7k8_EAAAQBAJ&dq=%27%27&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=7k8_EAAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Lines_in_a_Circle.html?hl=&id=7k8_EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7k8_EAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "That was all—just three lines in a circle. This bold picture book tells the story of the peace symbol—designed in 1958 by a London activist protesting nuclear weapons—and how it inspired people all over the world."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HY1V19yWOJUC",
+      "etag": "IRAci4P/ryo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HY1V19yWOJUC",
+      "volumeInfo": {
+        "title": "Fault Lines",
+        "subtitle": "How Hidden Fractures Still Threaten the World Economy",
+        "authors": ["Raghuram G. Rajan"],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2011-08-08",
+        "description": "From an economist who warned of the global financial crisis, a new warning about the continuing peril to the world economy Raghuram Rajan was one of the few economists who warned of the global financial crisis before it hit. Now, as the world struggles to recover, it's tempting to blame what happened on just a few greedy bankers who took irrational risks and left the rest of us to foot the bill. In Fault Lines, Rajan argues that serious flaws in the economy are also to blame, and warns that a potentially more devastating crisis awaits us if they aren't fixed. Rajan shows how the individual choices that collectively brought about the economic meltdown—made by bankers, government officials, and ordinary homeowners—were rational responses to a flawed global financial order in which the incentives to take on risk are incredibly out of step with the dangers those risks pose. He traces the deepening fault lines in a world overly dependent on the indebted American consumer to power global economic growth and stave off global downturns. He exposes a system where America's growing inequality and thin social safety net create tremendous political pressure to encourage easy credit and keep job creation robust, no matter what the consequences to the economy's long-term health; and where the U.S. financial sector, with its skewed incentives, is the critical but unstable link between an overstimulated America and an underconsuming world. In Fault Lines, Rajan demonstrates how unequal access to education and health care in the United States puts us all in deeper financial peril, even as the economic choices of countries like Germany, Japan, and China place an undue burden on America to get its policies right. He outlines the hard choices we need to make to ensure a more stable world economy and restore lasting prosperity.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400839803"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1400839807"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 283,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.10.9.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HY1V19yWOJUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HY1V19yWOJUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=HY1V19yWOJUC&printsec=frontcover&dq=%27%27&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=HY1V19yWOJUC&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fault_Lines.html?hl=&id=HY1V19yWOJUC"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fault_Lines-sample-epub.acsm?id=HY1V19yWOJUC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Fault_Lines-sample-pdf.acsm?id=HY1V19yWOJUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HY1V19yWOJUC&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Fault Lines, Rajan argues that serious flaws in the economy are also to blame, and warns that a potentially more devastating crisis awaits us if they aren&#39;t fixed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "esYZAQAAIAAJ",
+      "etag": "iTRUuPx8mZk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/esYZAQAAIAAJ",
+      "volumeInfo": {
+        "title": "History at NASA",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCSD:31822005686548"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 84,
+        "printType": "BOOK",
+        "categories": ["Aeronautics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=esYZAQAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=esYZAQAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=esYZAQAAIAAJ&printsec=frontcover&dq=%27%27&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=esYZAQAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=esYZAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=esYZAQAAIAAJ&rdid=book-esYZAQAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.com/books/download/History_at_NASA.epub?id=esYZAQAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=esYZAQAAIAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "auhOEAAAQBAJ",
+      "etag": "RurE3o67g78",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/auhOEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Internet for the People",
+        "subtitle": "The Fight for Our Digital Future",
+        "authors": ["Ben Tarnoff"],
+        "publisher": "Verso Books",
+        "publishedDate": "2022-06-14",
+        "description": "Why is the internet so broken, and what could ever possibly fix it? In Internet for the People, leading tech writer Ben Tarnoff offers an answer. The internet is broken, he argues, because it is owned by private firms and run for profit. Google annihilates your privacy and Facebook amplifies right-wing propaganda because it is profitable to do so. But the internet wasn't always like this—it had to be remade for the purposes of profit maximization, through a years-long process of privatization that turned a small research network into a powerhouse of global capitalism. Tarnoff tells the story of the privatization that made the modern internet, and which set in motion the crises that consume it today. The solution to those crises is straightforward: deprivatize the internet. Deprivatization aims at creating an internet where people, and not profit, rule. It calls for shrinking the space of the market and diminishing the power of the profit motive. It calls for abolishing the walled gardens of Google, Facebook, and the other giants that dominate our digital lives and developing publicly and cooperatively owned alternatives that encode real democratic control. To build a better internet, we need to change how it is owned and organized. Not with an eye towards making markets work better, but towards making them less dominant. Not in order to create a more competitive or more rule-bound version of privatization, but to overturn it. Otherwise, a small number of executives and investors will continue to make choices on everyone’s behalf, and these choices will remain tightly bound by the demands of the market. It's time to demand an internet by, and for, the people now.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781839762024"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1839762020"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=auhOEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=auhOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=auhOEAAAQBAJ&printsec=frontcover&dq=%27%27&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=auhOEAAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Internet_for_the_People.html?hl=&id=auhOEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=auhOEAAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How can it be improved? Writer Ben Tarnoff proposes one possibility in this intriguing book, which urges the development of &#39;a public lane on the information superhighway."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fkOKDQAAQBAJ",
+      "etag": "6SmXQJgXqeU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fkOKDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Start with Why",
+        "subtitle": "How Great Leaders Inspire Everyone to Take Action",
+        "authors": ["Simon Sinek"],
+        "publisher": "Penguin",
+        "publishedDate": "2011-12-27",
+        "description": "The inspirational bestseller that ignited a movement and asked us to find our WHY Discover the book that is captivating millions on TikTok and that served as the basis for one of the most popular TED Talks of all time—with more than 56 million views and counting. Over a decade ago, Simon Sinek started a movement that inspired millions to demand purpose at work, to ask what was the WHY of their organization. Since then, millions have been touched by the power of his ideas, and these ideas remain as relevant and timely as ever. START WITH WHY asks (and answers) the questions: why are some people and organizations more innovative, more influential, and more profitable than others? Why do some command greater loyalty from customers and employees alike? Even among the successful, why are so few able to repeat their success over and over? People like Martin Luther King Jr., Steve Jobs, and the Wright Brothers had little in common, but they all started with WHY. They realized that people won't truly buy into a product, service, movement, or idea until they understand the WHY behind it. START WITH WHY shows that the leaders who have had the greatest influence in the world all think, act and communicate the same way—and it's the opposite of what everyone else does. Sinek calls this powerful idea The Golden Circle, and it provides a framework upon which organizations can be built, movements can be led, and people can be inspired. And it all starts with WHY.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781591846444"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1591846447"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 258,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fkOKDQAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fkOKDQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=fkOKDQAAQBAJ&dq=%27%27&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=fkOKDQAAQBAJ&dq=%27%27&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Start_with_Why.html?hl=&id=fkOKDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "YE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "YE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fkOKDQAAQBAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The inspirational bestseller that ignited a movement and asked us to find our WHY Discover the book that is captivating millions on TikTok and that served as the basis for one of the most popular TED Talks of all time—with more than 56 ..."
+      }
+    }
+  ]
+}
